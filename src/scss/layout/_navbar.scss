@@ -1,0 +1,23 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-self: center;
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+    
+    .logo {
+        img {
+            width: 100px;
+        }
+    }
+
+    input {
+        padding: 0.5rem;
+        margin-top: 10px;
+        border-radius: 10px;
+        border: 1px solid black;
+    }
+
+    
+}
+

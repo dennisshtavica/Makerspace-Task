@@ -1,0 +1,33 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    font-family: 'Poppins';
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+  }
+  
+  ol, ul {
+      list-style: none;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  
+  body {
+      // margin-left: 79px;
+      // margin-right: 79px;
+      // margin-top: 45px;
+      background-color: #ffffff;
+  }
+  
+  button, input {
+      border-style: none;
+      border: none;
+  }
+  
+  html {
+      scroll-behavior: smooth;
+  }
